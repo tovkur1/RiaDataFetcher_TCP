@@ -107,17 +107,6 @@ RiaDataFetcher/
 
 ---
 
-## **🖼 Скриншоты**  
-### **1. Клиент (Qt)**  
-![Клиентское приложение](https://via.placeholder.com/600x400/555555/FFFFFF?text=Qt+Client+Preview)  
-
-### **2. Данные в PostgreSQL**  
-```sql
-SELECT * FROM ria_data;
-```
-![Данные в БД](https://via.placeholder.com/600x200/555555/FFFFFF?text=PostgreSQL+Output)  
-
----
 
 ## **📜 Лицензия**  
 **MIT License** — свободное использование с указанием авторства.  
