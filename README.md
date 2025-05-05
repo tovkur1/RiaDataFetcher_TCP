@@ -138,4 +138,4 @@ python server/server.py
 ./client/build/RiaDataFetcher
 ```  
 
-**Теперь ваш проект полностью настроен!** 🎉
+
